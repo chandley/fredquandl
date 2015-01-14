@@ -25,10 +25,11 @@ Can we
 does the Quandl ruby gem make accessing the API easier?
 https://github.com/knrz/Quandl-Ruby
 
-Could also look at 
-* Zanran.com
+Please also look at 
+* Zanran.com - tables not API
 * Datahub.io
 * Exversion.com
+* www.economicsnetwork.ac.uk/links/data_free
 
 ### Languages/Platforms/Tools
 

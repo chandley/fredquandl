@@ -25,6 +25,11 @@ Can we
 does the Quandl ruby gem make accessing the API easier?
 https://github.com/knrz/Quandl-Ruby
 
+Could also look at 
+* Zanran.com
+* Datahub.io
+* Exversion.com
+
 ### Languages/Platforms/Tools
 
 | Languages | Technologies  | Testing Frameworks| Misc
